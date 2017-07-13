@@ -1,0 +1,543 @@
+
+/* Class = "UILabel"; text = "机顶盒"; ObjectID = "0Fr-Po-naU"; */
+"0Fr-Po-naU.text" = "STB";
+
+/* Class = "UINavigationItem"; title = "添加服务器"; ObjectID = "0HU-ZY-ZcT"; */
+"0HU-ZY-ZcT.title" = "Add Device";
+
+/* Class = "UILabel"; text = "服务器密码："; ObjectID = "0e1-E9-r22"; */
+"0e1-E9-r22.text" = "Password：";
+
+/* Class = "UILabel"; text = "睿点抽屉被打开了！请立即查看。"; ObjectID = "10E-0A-477"; */
+"10E-0A-477.text" = "睿点抽屉被打开了！请立即查看。";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "15g-AE-efH"; */
+"15g-AE-efH.text" = "Name:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "1OY-eT-6cx"; */
+"1OY-eT-6cx.normalTitle" = "Cancel";
+
+/* Class = "UITabBarController"; title = "睿"; ObjectID = "2Pd-d1-zsC"; */
+"2Pd-d1-zsC.title" = "睿";
+
+/* Class = "UILabel"; text = "服务器名称："; ObjectID = "2Pg-V7-YC0"; */
+"2Pg-V7-YC0.text" = "Name：";
+
+/* Class = "UILabel"; text = "窗帘/门闸"; ObjectID = "2kf-4u-OLG"; */
+"2kf-4u-OLG.text" = "Curtain";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "5D4-kW-veO"; */
+"5D4-kW-veO.text" = "Name:";
+
+/* Class = "UILabel"; text = "邮箱绑定(选填):"; ObjectID = "5FG-lX-mLX"; */
+"5FG-lX-mLX.text" = "Email:";
+
+/* Class = "UINavigationItem"; title = "添加"; ObjectID = "5Jx-aS-tZ3"; */
+"5Jx-aS-tZ3.title" = "Add";
+
+/* Class = "UINavigationItem"; title = "添加锁"; ObjectID = "66P-bk-BWU"; */
+"66P-bk-BWU.title" = "Add Lock";
+
+/* Class = "UILabel"; text = "Light控制"; ObjectID = "6CH-eh-ok7"; */
+"6CH-eh-ok7.text" = "Light Control";
+
+/* Class = "UILabel"; text = "SN:"; ObjectID = "6CP-om-trN"; */
+"6CP-om-trN.text" = "SN:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6QZ-RZ-MQH"; */
+"6QZ-RZ-MQH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "正在搜索中...请按服务器底部按钮一次"; ObjectID = "6rZ-l5-rmm"; */
+"6rZ-l5-rmm.text" = "In the search... Please press the button at the bottom of the server at a time";
+
+/* Class = "UILabel"; text = "邮箱绑定(选填):"; ObjectID = "6uV-fj-sJg"; */
+"6uV-fj-sJg.text" = "Email:";
+
+/* Class = "UIButton"; normalTitle = "Scan to Add"; ObjectID = "7WW-tL-10j"; */
+"7WW-tL-10j.normalTitle" = "Scan to Add";
+
+/* Class = "UITabBarItem"; title = "控智"; ObjectID = "7XY-vO-Khs"; */
+"7XY-vO-Khs.title" = "Control";
+
+/* Class = "UINavigationItem"; title = "演播厅"; ObjectID = "7cj-gB-6xx"; */
+"7cj-gB-6xx.title" = "Studio";
+
+/* Class = "UILabel"; text = "服务器SN号："; ObjectID = "865-AL-IbT"; */
+"865-AL-IbT.text" = "Device SN：";
+
+/* Class = "UILabel"; text = "00:60"; ObjectID = "8Ci-R7-maa"; */
+"8Ci-R7-maa.text" = "00:60";
+
+/* Class = "UILabel"; text = "手势密码"; ObjectID = "8Fx-7l-3X2"; */
+"8Fx-7l-3X2.text" = "Gestures Password";
+
+/* Class = "UILabel"; text = "服务器配置网络中...请连续服务器底部按钮两次"; ObjectID = "8LI-Jy-3Np"; */
+"8LI-Jy-3Np.text" = "Configuration of the server in the network... Server button at the bottom of the two consecutive times, please";
+
+/* Class = "UIButton"; normalTitle = "自动搜索锁组SN号"; ObjectID = "8Rm-Sk-cvY"; */
+"8Rm-Sk-cvY.normalTitle" = "Search lock set SN number";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "8aq-fo-wHS"; */
+"8aq-fo-wHS.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "WIFI密码:"; ObjectID = "8fo-bF-rsy"; */
+"8fo-bF-rsy.text" = "Password:";
+
+/* Class = "UITabBarItem"; title = "设置"; ObjectID = "8hj-le-zGg"; */
+"8hj-le-zGg.title" = "setting";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "9LC-i0-HGj"; */
+"9LC-i0-HGj.normalTitle" = "Sure";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "9ln-oq-FxM"; */
+"9ln-oq-FxM.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "SN:"; ObjectID = "9mT-tn-wmR"; */
+"9mT-tn-wmR.text" = "SN:";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "AAg-nJ-abp"; */
+"AAg-nJ-abp.text" = "Type:";
+
+/* Class = "UISegmentedControl"; AJG-vN-9yk.segmentTitles[0] = "单组"; ObjectID = "AJG-vN-9yk"; */
+"AJG-vN-9yk.segmentTitles[0]" = "Single";
+
+/* Class = "UISegmentedControl"; AJG-vN-9yk.segmentTitles[1] = "多组"; ObjectID = "AJG-vN-9yk"; */
+"AJG-vN-9yk.segmentTitles[1]" = "Multiple";
+
+/* Class = "UINavigationItem"; title = "添加锁"; ObjectID = "Ani-HV-ual"; */
+"Ani-HV-ual.title" = "Add Lock";
+
+/* Class = "UILabel"; text = "创维群欣安防科技股份有限公司"; ObjectID = "Aqb-5Q-0vD"; */
+"Aqb-5Q-0vD.text" = "创维群欣安防科技股份有限公司";
+
+/* Class = "UINavigationItem"; title = "官方商城"; ObjectID = "BAc-QK-GyM"; */
+"BAc-QK-GyM.title" = "Store";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "BtS-HD-Fij"; */
+"BtS-HD-Fij.text" = "Name:";
+
+/* Class = "UIButton"; normalTitle = "学码添加(频率315MHz)"; ObjectID = "Byc-J5-bVd"; */
+"Byc-J5-bVd.normalTitle" = "Code to add (frequency 315 MHZ)";
+
+/* Class = "UIButton"; normalTitle = "自动搜索SN号"; ObjectID = "C9l-Ib-oDf"; */
+"C9l-Ib-oDf.normalTitle" = "Search SN number";
+
+/* Class = "UILabel"; text = "2015-11-26 23:17"; ObjectID = "CHV-c4-cR1"; */
+"CHV-c4-cR1.text" = "2015-11-26 23:17";
+
+/* Class = "UILabel"; text = "正在配对中..."; ObjectID = "CNQ-lF-VbV"; */
+"CNQ-lF-VbV.text" = "Are in pairs...";
+
+/* Class = "UIButton"; normalTitle = "学码添加(频率315MHz)"; ObjectID = "Cb2-mg-wbm"; */
+"Cb2-mg-wbm.normalTitle" = "Code to add (frequency 315 MHZ)";
+
+/* Class = "UILabel"; text = "正在配对中..."; ObjectID = "DwX-P6-lbK"; */
+"DwX-P6-lbK.text" = "Are in pairs...";
+
+/* Class = "UIButton"; normalTitle = "学码添加(频率315MHz)"; ObjectID = "EKh-N7-mgn"; */
+"EKh-N7-mgn.normalTitle" = "Code to add (frequency 315 MHZ)";
+
+/* Class = "UINavigationItem"; title = "恢复出厂设置"; ObjectID = "Egi-Fe-JXR"; */
+"Egi-Fe-JXR.title" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "Eru-Yf-HOM"; */
+"Eru-Yf-HOM.normalTitle" = "Sure";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "Faq-KG-rI7"; */
+"Faq-KG-rI7.normalTitle" = "Sure";
+
+/* Class = "UIButton"; normalTitle = "添加服务器"; ObjectID = "Fgy-l6-Rrh"; */
+"Fgy-l6-Rrh.normalTitle" = "Add Device";
+
+/* Class = "UIButton"; normalTitle = "Scan to Add"; ObjectID = "GHu-8g-fOe"; */
+"GHu-8g-fOe.normalTitle" = "Scan to Add";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "GJ5-Bh-W6M"; */
+"GJ5-Bh-W6M.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Light"; ObjectID = "Gzo-9X-jWg"; */
+"Gzo-9X-jWg.text" = "Light";
+
+/* Class = "UILabel"; text = "服务器密码："; ObjectID = "HZI-rj-HuO"; */
+"HZI-rj-HuO.text" = "Password：";
+
+/* Class = "UILabel"; text = "SN:"; ObjectID = "Hcb-JX-ouc"; */
+"Hcb-JX-ouc.text" = "SN:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "I1f-WR-jbr"; */
+"I1f-WR-jbr.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "IHm-zc-e6H"; */
+"IHm-zc-e6H.normalTitle" = "Sure";
+
+/* Class = "UILabel"; text = "创维投影"; ObjectID = "Iqr-2b-xoZ"; */
+"Iqr-2b-xoZ.text" = "Projector";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "Ivl-Py-zYF"; */
+"Ivl-Py-zYF.text" = "Name:";
+
+/* Class = "UINavigationItem"; title = "添加锁"; ObjectID = "J0l-gd-eYg"; */
+"J0l-gd-eYg.title" = "Add The Lock";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "JTJ-Wh-cD0"; */
+"JTJ-Wh-cD0.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "JUc-H7-PlY"; */
+"JUc-H7-PlY.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "创维遥控"; ObjectID = "JXI-8u-Out"; */
+"JXI-8u-Out.text" = "Remote";
+
+/* Class = "UILabel"; text = "Qr code scanning:"; ObjectID = "Kdb-ea-Nv5"; */
+"Kdb-ea-Nv5.text" = "Scan QR code:";
+
+/* Class = "UINavigationItem"; title = "型号选择"; ObjectID = "LM5-Ku-xfd"; */
+"LM5-Ku-xfd.title" = "Model selection";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "LV5-OU-7Vh"; */
+"LV5-OU-7Vh.text" = "Name:";
+
+/* Class = "UIButton"; normalTitle = "WIFI搜索"; ObjectID = "N2l-kN-vPb"; */
+"N2l-kN-vPb.normalTitle" = "WIFI Search";
+
+/* Class = "UILabel"; text = "创维关爱"; ObjectID = "NuG-NY-jIv"; */
+"NuG-NY-jIv.text" = "Love";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Oag-eV-9aD"; */
+"Oag-eV-9aD.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pri-dS-yO5"; */
+"Pri-dS-yO5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "修改服务器"; ObjectID = "QdM-Ue-7hF"; */
+"QdM-Ue-7hF.normalTitle" = "Modify Device";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "QpU-dg-gI8"; */
+"QpU-dg-gI8.normalTitle" = "Sure";
+
+/* Class = "UITabBarItem"; title = "商城"; ObjectID = "RC6-NT-Hg6"; */
+"RC6-NT-Hg6.title" = "Store";
+
+/* Class = "UILabel"; text = "创维控智"; ObjectID = "RJz-Sr-XRu"; */
+"RJz-Sr-XRu.text" = "Control";
+
+/* Class = "UINavigationItem"; title = "密码修改"; ObjectID = "RcI-T8-uID"; */
+"RcI-T8-uID.title" = "Modify Password";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "RgC-0Z-F6c"; */
+"RgC-0Z-F6c.text" = "Type:";
+
+/* Class = "UILabel"; text = "电视机"; ObjectID = "Ryo-A7-T70"; */
+"Ryo-A7-T70.text" = "TV";
+
+/* Class = "UILabel"; text = "康佳电视机"; ObjectID = "S2y-Nr-352"; */
+"S2y-Nr-352.text" = "康佳电视机";
+
+/* Class = "UILabel"; text = "空调"; ObjectID = "Twt-98-HLm"; */
+"Twt-98-HLm.text" = "Air";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "UQf-qL-J89"; */
+"UQf-qL-J89.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "学码添加(频率433MHz)"; ObjectID = "UkH-3h-zQM"; */
+"UkH-3h-zQM.normalTitle" = "Add (frequency 433 MHZ)";
+
+/* Class = "UILabel"; text = "Qr code scanning:"; ObjectID = "Uwi-p0-o8p"; */
+"Uwi-p0-o8p.text" = "Scan QR code:";
+
+/* Class = "UILabel"; text = "新密码:"; ObjectID = "V2h-il-Ehc"; */
+"V2h-il-Ehc.text" = "New :";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "VUW-Le-6E8"; */
+"VUW-Le-6E8.text" = "Type:";
+
+/* Class = "UILabel"; text = "00:60"; ObjectID = "Vsb-Fm-LS3"; */
+"Vsb-Fm-LS3.text" = "00:60";
+
+/* Class = "UILabel"; text = "自定义2"; ObjectID = "WEZ-0G-2Hq"; */
+"WEZ-0G-2Hq.text" = "Custom2";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "WjF-Qk-Unv"; */
+"WjF-Qk-Unv.text" = "Name:";
+
+/* Class = "UINavigationItem"; title = "灯"; ObjectID = "XCb-jW-wEb"; */
+"XCb-jW-wEb.title" = "Light";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Y4V-Qz-Xid"; */
+"Y4V-Qz-Xid.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Scan to Add"; ObjectID = "Y7V-0h-gYO"; */
+"Y7V-0h-gYO.normalTitle" = "Scan to Add";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Z6y-wD-N1x"; */
+"Z6y-wD-N1x.normalTitle" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "窗帘/门闸"; ObjectID = "Z9F-Qz-iZi"; */
+"Z9F-Qz-iZi.title" = "Curtain/Latch";
+
+/* Class = "UILabel"; text = "睿点抽屉"; ObjectID = "ZTC-uj-4cT"; */
+"ZTC-uj-4cT.text" = "睿点抽屉";
+
+/* Class = "UIButton"; normalTitle = "一键配置"; ObjectID = "ZdI-ow-PIV"; */
+"ZdI-ow-PIV.normalTitle" = "Smartlink";
+
+/* Class = "UITextField"; placeholder = "建议使用网易邮箱"; ObjectID = "Zg3-hd-d7B"; */
+"Zg3-hd-d7B.placeholder" = "Use the netease mail";
+
+/* Class = "UILabel"; text = "自定义1"; ObjectID = "aDv-bp-jBz"; */
+"aDv-bp-jBz.text" = "Custom1";
+
+/* Class = "UISegmentedControl"; ape-cV-52x.segmentTitles[0] = "一路"; ObjectID = "ape-cV-52x"; */
+"ape-cV-52x.segmentTitles[0]" = "One";
+
+/* Class = "UISegmentedControl"; ape-cV-52x.segmentTitles[1] = "二路"; ObjectID = "ape-cV-52x"; */
+"ape-cV-52x.segmentTitles[1]" = "Two";
+
+/* Class = "UISegmentedControl"; ape-cV-52x.segmentTitles[2] = "三路"; ObjectID = "ape-cV-52x"; */
+"ape-cV-52x.segmentTitles[2]" = "Three";
+
+/* Class = "UISegmentedControl"; ape-cV-52x.segmentTitles[3] = "四路"; ObjectID = "ape-cV-52x"; */
+"ape-cV-52x.segmentTitles[3]" = "Four";
+
+/* Class = "UINavigationItem"; title = "添加灯组"; ObjectID = "bLd-9F-hHo"; */
+"bLd-9F-hHo.title" = "Add light";
+
+/* Class = "UINavigationItem"; title = "添加窗帘/门闸"; ObjectID = "beH-Zf-l5j"; */
+"beH-Zf-l5j.title" = "Add The Curtain/Latch";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "c9z-LI-rJQ"; */
+"c9z-LI-rJQ.normalTitle" = "Sure";
+
+/* Class = "UINavigationItem"; title = "添加投影"; ObjectID = "crI-dj-DJN"; */
+"crI-dj-DJN.title" = "Add The Projector";
+
+/* Class = "UILabel"; text = "空调"; ObjectID = "crW-fV-WUC"; */
+"crW-fV-WUC.text" = "Air";
+
+/* Class = "UILabel"; text = "Qr code scanning:"; ObjectID = "dJl-KC-QRh"; */
+"dJl-KC-QRh.text" = "Scan QR code:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dcg-Mx-Muy"; */
+"dcg-Mx-Muy.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "服务器名称："; ObjectID = "ds9-jh-jNJ"; */
+"ds9-jh-jNJ.text" = "Name：";
+
+/* Class = "UILabel"; text = "自定义3"; ObjectID = "e0W-A3-J8P"; */
+"e0W-A3-J8P.text" = "Custom3";
+
+/* Class = "UILabel"; text = "正在配对中..."; ObjectID = "ek3-I3-ru9"; */
+"ek3-I3-ru9.text" = "Are in pairs...";
+
+/* Class = "UIButton"; normalTitle = "Qr code scanning"; ObjectID = "etx-pP-sIM"; */
+"etx-pP-sIM.normalTitle" = "Scan QR code";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "eya-se-dvB"; */
+"eya-se-dvB.text" = "Type:";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "fCz-K2-43U"; */
+"fCz-K2-43U.text" = "Type:";
+
+/* Class = "UIButton"; normalTitle = "学码添加(频率433MHz)"; ObjectID = "fNH-jy-eVc"; */
+"fNH-jy-eVc.normalTitle" = "Add (frequency 433 MHZ)";
+
+/* Class = "UILabel"; text = "00:60"; ObjectID = "fWw-AI-cuU"; */
+"fWw-AI-cuU.text" = "00:60";
+
+/* Class = "UILabel"; text = "厨房"; ObjectID = "fer-Vh-8XV"; */
+"fer-Vh-8XV.text" = "厨房";
+
+/* Class = "UINavigationItem"; title = "添加关爱"; ObjectID = "frw-av-cDJ"; */
+"frw-av-cDJ.title" = "Add the love";
+
+/* Class = "UINavigationItem"; title = "添加安防"; ObjectID = "fyu-a7-Fz6"; */
+"fyu-a7-Fz6.title" = "Add the Security";
+
+/* Class = "UILabel"; text = "保存密码"; ObjectID = "gIo-sR-fAK"; */
+"gIo-sR-fAK.text" = "save";
+
+/* Class = "UILabel"; text = "00:60"; ObjectID = "gPc-lS-amI"; */
+"gPc-lS-amI.text" = "00:60";
+
+/* Class = "UILabel"; text = "2015-12-31 23:59"; ObjectID = "gPn-ol-DlY"; */
+"gPn-ol-DlY.text" = "2015-12-31 23:59";
+
+/* Class = "UILabel"; text = "消息提醒"; ObjectID = "gdP-Eb-3lu"; */
+"gdP-Eb-3lu.text" = "Alarm Message";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "gpi-Od-VMF"; */
+"gpi-Od-VMF.text" = "Name:";
+
+/* Class = "UINavigationItem"; title = "信息修改"; ObjectID = "iBV-po-lLV"; */
+"iBV-po-lLV.title" = "Modify the information";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "ilP-FW-evQ"; */
+"ilP-FW-evQ.normalTitle" = "Sure";
+
+/* Class = "UILabel"; text = "设备名称"; ObjectID = "iqt-sG-ySg"; */
+"iqt-sG-ySg.text" = "Name";
+
+/* Class = "UILabel"; text = "时间:"; ObjectID = "isK-qP-ATl"; */
+"isK-qP-ATl.text" = "Time:";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "lCD-Ey-pqh"; */
+"lCD-Ey-pqh.normalTitle" = "Sure";
+
+/* Class = "UITabBarItem"; title = "直播"; ObjectID = "lZk-2K-VGd"; */
+"lZk-2K-VGd.title" = "Live";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "mIU-wd-dyE"; */
+"mIU-wd-dyE.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "重新连接"; ObjectID = "mWs-FE-eKc"; */
+"mWs-FE-eKc.normalTitle" = "reconnection";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "mdO-uv-gxu"; */
+"mdO-uv-gxu.text" = "Name:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "mdV-ZT-Xgg"; */
+"mdV-ZT-Xgg.text" = "Name:";
+
+/* Class = "UIBarButtonItem"; title = "清空"; ObjectID = "mm6-aH-w6c"; */
+"mm6-aH-w6c.title" = "Clear";
+
+/* Class = "UILabel"; text = "SN:"; ObjectID = "nVV-wt-SVg"; */
+"nVV-wt-SVg.text" = "SN:";
+
+/* Class = "UINavigationItem"; title = "添加触摸开关"; ObjectID = "nye-9F-uYp"; */
+"nye-9F-uYp.title" = "Add touch light";
+
+/* Class = "UILabel"; text = "Light控制"; ObjectID = "oHa-43-iDK"; */
+"oHa-43-iDK.text" = "Light Control";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "oUc-X9-bcp"; */
+"oUc-X9-bcp.text" = "Type:";
+
+/* Class = "UILabel"; text = "厨房着火了厨房着火了厨房着火了厨房着火了厨房着火了厨房着火了"; ObjectID = "odb-7O-jIL"; */
+"odb-7O-jIL.text" = "厨房着火了厨房着火了厨房着火了厨房着火了厨房着火了厨房着火了";
+
+/* Class = "UINavigationItem"; title = "操作说明"; ObjectID = "oxu-78-xsq"; */
+"oxu-78-xsq.title" = "User Guide";
+
+/* Class = "UILabel"; text = "服务器SN号："; ObjectID = "p4p-88-wfI"; */
+"p4p-88-wfI.text" = "Device SN:";
+
+/* Class = "UIButton"; normalTitle = "学码添加(频率433MHz)"; ObjectID = "p6p-lx-Vmh"; */
+"p6p-lx-Vmh.normalTitle" = "Add (frequency 433 MHZ)";
+
+/* Class = "UILabel"; text = "门锁"; ObjectID = "pJT-Fb-e89"; */
+"pJT-Fb-e89.text" = "Lock";
+
+/* Class = "UILabel"; text = "创维安防"; ObjectID = "pfn-0d-rMO"; */
+"pfn-0d-rMO.text" = "Security";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "qGX-oJ-h27"; */
+"qGX-oJ-h27.normalTitle" = "Sure";
+
+/* Class = "UIButton"; normalTitle = "触摸开关添加"; ObjectID = "qUa-T6-MZv"; */
+"qUa-T6-MZv.normalTitle" = "Add a touch switch";
+
+/* Class = "UINavigationItem"; title = "添加灯组"; ObjectID = "qV0-LM-8pf"; */
+"qV0-LM-8pf.title" = "Add light";
+
+/* Class = "UILabel"; text = "Qr code scanning:"; ObjectID = "qc6-PY-qaB"; */
+"qc6-PY-qaB.text" = "Scan QR code:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "quX-6l-nJF"; */
+"quX-6l-nJF.text" = "Name:";
+
+/* Class = "UILabel"; text = "00:60"; ObjectID = "ran-zQ-t3S"; */
+"ran-zQ-t3S.text" = "00:60";
+
+/* Class = "UILabel"; text = "旧密码:"; ObjectID = "rb6-YE-kbS"; */
+"rb6-YE-kbS.text" = "Old :";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "rg4-6m-I1O"; */
+"rg4-6m-I1O.normalTitle" = "Sure";
+
+/* Class = "UIButton"; normalTitle = "一键配置"; ObjectID = "rqb-9D-ZEO"; */
+"rqb-9D-ZEO.normalTitle" = "change";
+
+/* Class = "UIButton"; normalTitle = "Sure"; ObjectID = "ryp-lW-gNl"; */
+"ryp-lW-gNl.normalTitle" = "Sure";
+
+/* Class = "UISegmentedControl"; sJl-hC-KuW.segmentTitles[0] = "离合"; ObjectID = "sJl-hC-KuW"; */
+"sJl-hC-KuW.segmentTitles[0]" = "Door";
+
+/* Class = "UISegmentedControl"; sJl-hC-KuW.segmentTitles[1] = "烟感"; ObjectID = "sJl-hC-KuW"; */
+"sJl-hC-KuW.segmentTitles[1]" = "Smoke";
+
+/* Class = "UISegmentedControl"; sJl-hC-KuW.segmentTitles[2] = "气感"; ObjectID = "sJl-hC-KuW"; */
+"sJl-hC-KuW.segmentTitles[2]" = "Gas";
+
+/* Class = "UISegmentedControl"; sVk-U1-b07.segmentTitles[0] = "窗帘"; ObjectID = "sVk-U1-b07"; */
+"sVk-U1-b07.segmentTitles[0]" = "Curtain";
+
+/* Class = "UISegmentedControl"; sVk-U1-b07.segmentTitles[1] = "横门闸"; ObjectID = "sVk-U1-b07"; */
+"sVk-U1-b07.segmentTitles[1]" = "Gate_H";
+
+/* Class = "UISegmentedControl"; sVk-U1-b07.segmentTitles[2] = "竖门闸"; ObjectID = "sVk-U1-b07"; */
+"sVk-U1-b07.segmentTitles[2]" = "Gate_V";
+
+/* Class = "UISegmentedControl"; sYy-jV-w3p.segmentTitles[0] = "窗帘"; ObjectID = "sYy-jV-w3p"; */
+"sYy-jV-w3p.segmentTitles[0]" = "Curtain";
+
+/* Class = "UISegmentedControl"; sYy-jV-w3p.segmentTitles[1] = "横门闸"; ObjectID = "sYy-jV-w3p"; */
+"sYy-jV-w3p.segmentTitles[1]" = "Gate_H";
+
+/* Class = "UISegmentedControl"; sYy-jV-w3p.segmentTitles[2] = "竖门闸"; ObjectID = "sYy-jV-w3p"; */
+"sYy-jV-w3p.segmentTitles[2]" = "Gate_V";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "srF-jg-Lj4"; */
+"srF-jg-Lj4.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "tAk-Lh-Lsz"; */
+"tAk-Lh-Lsz.text" = "1234";
+
+/* Class = "UINavigationItem"; title = "窗帘"; ObjectID = "tB1-tD-pSB"; */
+"tB1-tD-pSB.title" = "Curtain";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "tMa-3B-0m1"; */
+"tMa-3B-0m1.normalTitle" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "服务器网络配置"; ObjectID = "tMc-np-Y3e"; */
+"tMc-np-Y3e.title" = "Network Settings";
+
+/* Class = "UILabel"; text = "WIFI名称:"; ObjectID = "th9-rh-Jec"; */
+"th9-rh-Jec.text" = "SSID:";
+
+/* Class = "UILabel"; text = "开锁密码:"; ObjectID = "tuc-gQ-bvH"; */
+"tuc-gQ-bvH.text" = "Lock password:";
+
+/* Class = "UISegmentedControl"; u1R-ca-HO0.segmentTitles[0] = "电话"; ObjectID = "u1R-ca-HO0"; */
+"u1R-ca-HO0.segmentTitles[0]" = "Phone";
+
+/* Class = "UISegmentedControl"; u1R-ca-HO0.segmentTitles[1] = "平安"; ObjectID = "u1R-ca-HO0"; */
+"u1R-ca-HO0.segmentTitles[1]" = "Safe";
+
+/* Class = "UISegmentedControl"; u1R-ca-HO0.segmentTitles[2] = "求救"; ObjectID = "u1R-ca-HO0"; */
+"u1R-ca-HO0.segmentTitles[2]" = "SOS";
+
+/* Class = "UILabel"; text = "验证码："; ObjectID = "vDh-ay-x8o"; */
+"vDh-ay-x8o.text" = "Code：";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "wlf-PL-D0Y"; */
+"wlf-PL-D0Y.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "发送"; ObjectID = "x1U-dE-HUv"; */
+"x1U-dE-HUv.normalTitle" = "Send";
+
+/* Class = "UINavigationItem"; title = "关于我们"; ObjectID = "x4k-XA-tqP"; */
+"x4k-XA-tqP.title" = "About";
+
+/* Class = "UINavigationItem"; title = "系统设置"; ObjectID = "x8r-gp-riM"; */
+"x8r-gp-riM.title" = "Setting";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "z27-yD-Lhs"; */
+"z27-yD-Lhs.normalTitle" = "Cancel";
+
+/* Class = "UITabBarItem"; title = "商城"; ObjectID = "zKS-H4-bM1"; */
+"zKS-H4-bM1.title" = "Store";
+
+/* Class = "UITextField"; placeholder = "建议使用网易邮箱"; ObjectID = "zmX-cQ-ol8"; */
+"zmX-cQ-ol8.placeholder" = "Use the netease mail";

@@ -1,0 +1,40 @@
+
+/* Class = "WKInterfaceLabel"; text = "悟空遥控"; ObjectID = "3kN-n7-dTt"; */
+"3kN-n7-dTt.text" = "悟空遙控";
+
+/* Class = "WKInterfaceButton"; title = "返回"; ObjectID = "4Ri-qr-GDo"; */
+"4Ri-qr-GDo.title" = "返回";
+
+/* Class = "WKInterfaceButton"; title = "右"; ObjectID = "6Dt-hR-C8y"; */
+"6Dt-hR-C8y.title" = "右";
+
+/* Class = "WKInterfaceLabel"; text = "视频名字"; ObjectID = "9Qa-Zc-GpJ"; */
+"9Qa-Zc-GpJ.text" = "視頻名字";
+
+/* Class = "WKInterfaceButton"; title = "OK"; ObjectID = "A47-e8-YkZ"; */
+"A47-e8-YkZ.title" = "OK";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "IdU-wH-bcW"; */
+"IdU-wH-bcW.text" = "Alert Label";
+
+/* Class = "WKInterfaceButton"; title = "左"; ObjectID = "PUo-0F-4qz"; */
+"PUo-0F-4qz.title" = "左";
+
+/* Class = "WKInterfaceButton"; title = "下"; ObjectID = "SQT-rv-r6l"; */
+"SQT-rv-r6l.title" = "下";
+
+/* Class = "WKInterfaceButton"; title = "语音控制"; ObjectID = "Yvz-3x-u2T"; */
+"Yvz-3x-u2T.title" = "語音控制";
+
+/* Class = "WKInterfaceController"; title = "关闭"; ObjectID = "Zz3-pR-W1k"; */
+"Zz3-pR-W1k.title" = "關閉";
+
+/* Class = "WKInterfaceButton"; title = "悟空荐片"; ObjectID = "jHv-m2-pkf"; */
+"jHv-m2-pkf.title" = "悟空薦片";
+
+/* Class = "WKInterfaceButton"; title = "播放"; ObjectID = "kqp-2R-dcm"; */
+"kqp-2R-dcm.title" = "播放";
+
+/* Class = "WKInterfaceButton"; title = "上"; ObjectID = "qAD-Gw-8Ec"; */
+"qAD-Gw-8Ec.title" = "上";
+

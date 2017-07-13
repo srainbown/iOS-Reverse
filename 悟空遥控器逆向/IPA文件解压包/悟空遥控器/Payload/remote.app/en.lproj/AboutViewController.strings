@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "www.wukongtv.com"; ObjectID = "2Dg-si-Xi1"; */
+"2Dg-si-Xi1.text" = "www.wukongtv.com";
+
+/* Class = "UIButton"; normalTitle = "新手帮助"; ObjectID = "9rX-7l-krS"; */
+"9rX-7l-krS.normalTitle" = "Help";
+
+/* Class = "UIButton"; normalTitle = "检查更新"; ObjectID = "J5e-gy-cGb"; */
+"J5e-gy-cGb.normalTitle" = "Join us";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NUd-f9-hgL"; */
+"NUd-f9-hgL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "U30-G7-Ni7"; */
+"U30-G7-Ni7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "悟空工作室"; ObjectID = "hxw-o5-KXd"; */
+"hxw-o5-KXd.text" = "Wukong Studio";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xwb-Sf-1Iv"; */
+"xwb-Sf-1Iv.text" = "Label";

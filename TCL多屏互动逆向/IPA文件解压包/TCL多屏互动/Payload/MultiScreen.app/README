@@ -1,0 +1,4 @@
+Enable objective-c runtime functions:object_getClass,etc.
+How to use:
+1.Add allfiles to your project.
+2.Include OTRuntime.h
